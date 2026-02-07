@@ -17,4 +17,4 @@ Designed to aid novice players understand the criteria and relative weight of ea
   - Four of a Kind (Aces) with King Kicker
 - Added the following humourous messages to the pre-flop depending on the cards entered:
   - High Card: 7 with 2 Kicker - '7-Deuce :(', an informal term for the worst pre-flop
-  - Pair: Aces - 'Pocket Rockets!', an informal term for the best pre-flop)
+  - Pair: Aces - 'Pocket Rockets!', an informal term for the best pre-flop
