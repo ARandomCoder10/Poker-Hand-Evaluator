@@ -9,7 +9,7 @@ Designed to aid novice players understand the criteria and relative weight of ea
 - Development: started 2022 (age 14) - now completed
 - Maintenance: started 2023 - ongoing minor refinements
 
-## Post-Developement Algorithm Optimisations
+## Post-Development Algorithm Optimisations
 - Stops asking for card suits when the possibility of a flush has disappeared
 - Terminates card input when one of following unimprovable hands is determined:
   - Royal Flush
