@@ -5,13 +5,16 @@ Designed to aid novice players understand the criteria and relative weight of ea
 ## Technologies
 - Python
 
-## Algorithm Optimisations
+## Status
+- Development: started 2022 (age 14) - now completed
+- Maintenance: started 2023 - ongoing minor refinements
+
+## Post-Developement Algorithm Optimisations
 - Stops asking for card suits when the possibility of a flush has disappeared
 - Terminates card input when one of following unimprovable hands is determined:
   - Royal Flush
   - Four of a Kind with Ace Kicker
   - Four of a Kind (Aces) with King Kicker
-
-## Status
-- Development: started 2022 (age 14) - now completed
-- Maintenance: started 2023 - ongoing minor refinements
+- Added the following humourous messages to the pre-flop depending on the cards entered:
+  - High Card: 7 with 2 Kicker - '7-Deuce :(', an informal term for the worst pre-flop
+  - Pair: Aces - 'Pocket Rockets!', an informal term for the best pre-flop)
